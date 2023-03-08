@@ -21,7 +21,7 @@ I've been 10 years of experience in Linux systems, after this tech transformatio
 * 🧠 Love DevOps culture
 * 🗺️ Open source enthusiast
 * 🏅 Strong believer of team work, collaboration and self managed teams
-* 
+
 <a href="https://www.github.com/haooliveira84" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/haooliveira84?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
